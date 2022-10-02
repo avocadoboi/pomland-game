@@ -1,0 +1,6 @@
+add_subdirectory(character)
+add_subdirectory(component)
+add_subdirectory(main)
+add_subdirectory(resource)
+add_subdirectory(rooms)
+add_subdirectory(UI)
