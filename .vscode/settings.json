@@ -1,6 +1,6 @@
 {
     "cmake.configureArgs": [
-        "-DCMAKE_TOOLCHAIN_FILE=/home/bjorn/vcpkg/scripts/buildsystems/vcpkg.cmake"
+        "-DCMAKE_TOOLCHAIN_FILE=cmake/Msvc.cmake"
     ],
     "files.associations": {
         "vector": "cpp",
